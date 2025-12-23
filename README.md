@@ -2,6 +2,7 @@
 
 # SAM-Audio
 
+[![arXiv](https://img.shields.io/badge/arXiv-2512.18099-b31b1b.svg)](https://arxiv.org/abs/2512.18099)
 ![CI](https://github.com/facebookresearch/sam-audio/actions/workflows/ci.yaml/badge.svg)
 
 ![model_image](assets/sam_audio_main_model.png)
